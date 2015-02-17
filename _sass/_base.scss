@@ -202,3 +202,27 @@ pre {
         }
     }
 }
+
+.avatar{
+    float: left;
+    margin: 0 30px 20px 0;
+}
+
+body{
+    background-image: url("http://icecubeinc.com/img/bg_white.jpg");
+    background-repeat: repeat;
+    background-position: center;
+    background-size: auto;
+}
+
+h1, .site-title, .site-nav a{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+
+p{
+    font-family: 'Exo', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
