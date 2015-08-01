@@ -169,7 +169,6 @@ a:after {
 	background-color: #4e4e4e;
 	padding-top: 50px;
 	padding-bottom: 50px;
-	margin-top: 50px;
 }
 
 #skills h3 {
@@ -190,7 +189,7 @@ a:after {
 
 #social i {
 	font-size: 50px;
-	color: #74cfae;
+	color: black;
 }
 
 #social .col-md-3:hover {
